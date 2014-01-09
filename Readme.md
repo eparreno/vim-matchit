@@ -1,4 +1,4 @@
-# Vim Matchit plugin
+# vim-matchit
 
 Extended % matching for HTML, LaTeX, and many other languages
 
